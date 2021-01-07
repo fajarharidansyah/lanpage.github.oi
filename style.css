@@ -1,0 +1,76 @@
+/* Navbar */
+ .navbar-brand {
+    font-family: viga;
+    font-size: 30px;
+}
+
+/* Jumbotron */
+.jumbotron {
+
+    background-image: url(img/akses2.png);
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+}
+
+/* image fluid */
+.respon {
+    background-image: url(img/jumbobaner.jpg);
+    background-size: 100px;
+    height: 400px;
+
+}
+
+/* info panel */
+.info-panel {
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    margin-top: -100px;
+    background-color: white;
+    padding: 10px;
+    padding-right: 70px;
+}
+
+/* worspace */
+
+.workingspace {
+    margin-top: 70px;
+    margin-right: 50px;
+}
+
+.workingspace h3{
+    font-size: 52px;
+    font-weight: 200px;
+    text-transform: uppercase;
+}
+
+.workingspace h3 span{
+    font-weight: 500px;
+}
+
+
+/* Utility */
+
+.btn-primary {
+
+    text-transform: uppercase;
+    border-radius: 40px;
+
+}
+
+.jumbotron .display-4{
+    color: black;
+    margin-top: 120px;
+    font-weight: 200px;
+    font-size: 35px;
+}
+
+.jumbotron .display-4 span{
+    font-weight: 500px;
+
+}
+
+.nav-link {
+    margin-right: 5px;
+}
+
